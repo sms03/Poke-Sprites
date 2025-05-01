@@ -1,0 +1,8 @@
+pygame==2.5.2
+Pillow==10.0.0
+requests==2.31.0
+tqdm==4.66.1
+matplotlib==3.7.2
+numpy==1.24.3
+# PySide6 is optional and can be installed separately if needed
+# python-tk is already included in standard Python installations
